@@ -1,7 +1,7 @@
 <?php 
 
 $servidor = "127.0.0.1";
-$senha = "neckel907T@";
+$senha = ""; 
 $usuario = "root";
 $banco = "mydb";
 
